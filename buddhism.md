@@ -4,6 +4,14 @@
 
 An ontology-based reading of Zen / #Chan — Jizang-grounded, Dōgen-formulated, Hakuin-inspired.
 
+| Dependence | Enactment |
+|------------|-----------|
+| mujishō-sōe — no-own-being-as-mutual-dependence — jiji-muge of the shohō, each-in-all, no substrate (conventional description of how empty dharmas relate). | genjō — manifesting fully; the hinge where the scaffold dissolves. |
+| kannō-sōe — resonance-as-mutual-dependence; the same sōe where response comes to pitch (ki 機 calls, response answers) — no privileged *substance*. | banpō susumite — the myriad dharmas advance and clarify the self. |
+| engi / inga — value-free directedness; the morally blind arrow. | gan / gyōji / fumai-inga — the weld: kannō's act-time direction bound along the blind arrow; not-obscure (不昧). |
+
+## Credits
+
 Nishitani provides the impetus — absolute non-being is not a privative void but lies beyond the being/non-being distinction, which is named by emptiness.
 
 Jizang provides the self-emptying floor — emptiness empties even emptiness (空空), so the ultimate is never reified as a thing. It is the floor's emptiness, reaching the karma-holder, that makes karma underivable-from-the-impersonal-field of conditions.
@@ -13,6 +21,8 @@ Dōgen provides the philosophical material.
 Hakuin provides the corrective: the conceptual truth of non-Buddha — the *not-yet-buddha* — mustn't be ignored. Realization must meet beings where they are (not just silent illumination), and this is what necessitates kannō-sōe's responsiveness.
 
 Linji provides the weld its agential face — the true person of no rank: no metaphysical rank, yet always going in and out, acting.
+
+## Notes
 
 **Tiering.** The ultimate is the self-emptying floor (Jizang). All three rows are *conventional* articulation — MMK 24: emptiness = dependent origination = conventional designation; the path lives entirely on the conventional side. The two truths are themselves a conventional distinction — Jizang's fourfold two truths (四重二諦): each posited conventional/ultimate pair is itself re-emptied as merely conventional at the next level, so no level stands as a final floor. The grid's organizing joints are scaffold — and genjō names the point where the scaffold is kicked away (the seam dissolving), not a separate ultimate row. The tiering and kannō-sōe (with the ki 機 it implies) are conventional and my own — contrasts with Dōgen, who keeps all ultimate.
 
@@ -37,9 +47,3 @@ The firing condition is therefore *designation-whose-answer-routes-through-the-s
 The fox kōan (Hyakujō's fox) supplies both, and the two tiers keep them honest: not-fall holds at the floor (no substance to fall), not-obscure holds conventionally (the arrow binds and is never evaded). The old man's 500 fox-lives were for asserting not-fall where not-obscure was owed — floor-truth claimed at the conventional level is antinomian. Clinging to either alone is the fox; held across the two tiers they are non-dual (Daishugyō's non-duality and Shinjin-inga's hard causal affirmation, each at its proper tier).
 
 This is a limited lens — other doctrines hold too.
-
-| Dependence | Enactment |
-|------------|-----------|
-| mujishō-sōe — no-own-being-as-mutual-dependence — jiji-muge of the shohō, each-in-all, no substrate (conventional description of how empty dharmas relate). | genjō — manifesting fully; the hinge where the scaffold dissolves. |
-| kannō-sōe — resonance-as-mutual-dependence; the same sōe where response comes to pitch (ki 機 calls, response answers) — no privileged *substance*. | banpō susumite — the myriad dharmas advance and clarify the self. |
-| engi / inga — value-free directedness; the morally blind arrow. | gan / gyōji / fumai-inga — the weld: kannō's act-time direction bound along the blind arrow; not-obscure (不昧). |
