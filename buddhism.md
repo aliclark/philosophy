@@ -4,7 +4,7 @@ An ontology-based reading of Zen / #Chan  —  Jizang-grounded, Dōgen-formulate
 
 Nishitani provides the impetus - absolute non-being is not a privative void but lies beyond the being/non-being distinction, which is named by emptiness.
 
-Jishang provides a purely conceptual emptiness that is self-emptying.
+Jishang provides a purely conventional emptiness that is self-emptying.
 
 Dogen provides the philosophical material.
 
