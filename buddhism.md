@@ -14,7 +14,7 @@ Hakuin provides the corrective: the conceptual truth of non-Buddha — the *not-
 
 Linji provides the weld its agential face — the true person of no rank: no metaphysical rank, yet always going in and out, acting.
 
-Tiering. The ultimate is the self-emptying floor (Jizang / Nishitani). All three rows are *conventional* articulation — MMK 24: emptiness = dependent origination = conventional designation; the path lives entirely on the conventional side. The two truths are themselves a conventional distinction, so the grid's organizing joints are scaffold — and genjō names the point where the scaffold is kicked away (the seam dissolving), not a separate ultimate row. The tiering and kannō-sōe (with the ki 機 it implies) are conventional and my own — contrasts with Dōgen, who keeps all ultimate.
+Tiering. The ultimate is the self-emptying floor (Jizang). All three rows are *conventional* articulation — MMK 24: emptiness = dependent origination = conventional designation; the path lives entirely on the conventional side. The two truths are themselves a conventional distinction, so the grid's organizing joints are scaffold — and genjō names the point where the scaffold is kicked away (the seam dissolving), not a separate ultimate row. The tiering and kannō-sōe (with the ki 機 it implies) are conventional and my own — contrasts with Dōgen, who keeps all ultimate.
 
 Attunement axiom — one irreducible posit, two faces:
 - definitional face: karma names a distinct causal order, value-free.
