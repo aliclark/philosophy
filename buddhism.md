@@ -6,7 +6,7 @@ An ontology-based reading of Zen / #Chan — Jizang-grounded, Dōgen-formulated,
 
 Nishitani provides the impetus — absolute non-being is not a privative void but lies beyond the being/non-being distinction, which is named by emptiness.
 
-Jizang provides the self-emptying floor — emptiness empties even emptiness (空空), so the ultimate is never reified as a thing. The floor sits *under* the whole table, not in it.
+Jizang provides the self-emptying floor — emptiness empties even emptiness (空空), so the ultimate is never reified as a thing. It is the floor's emptiness, reaching the kamma-holder, that makes kamma underivable-from-utu.
 
 Dōgen provides the philosophical material.
 
@@ -16,13 +16,15 @@ Linji provides the weld its agential face — the true person of no rank: no met
 
 Tiering. The ultimate is the self-emptying floor (Jizang). All three rows are *conventional* articulation — MMK 24: emptiness = dependent origination = conventional designation; the path lives entirely on the conventional side. The two truths are themselves a conventional distinction, so the grid's organizing joints are scaffold — and genjō names the point where the scaffold is kicked away (the seam dissolving), not a separate ultimate row. The tiering and kannō-sōe (with the ki 機 it implies) are conventional and my own — contrasts with Dōgen, who keeps all ultimate.
 
-Attunement axiom — one irreducible posit, two faces:
-- definitional face: karma names a distinct causal order, value-free.
-- relational face: kamma-niyāma underivable-from-utu.
+Attunement axiom — one irreducible posit: *śūnyatā — the kamma-holder has no own-being.* Two downstream faces:
+ - *definitional face*: conventionally, kamma names a distinct causal order, value-free — not utu wearing a veil.
+ - *relational face*: kamma is underivable-from-utu because there is *no fixed utu-base to read it off* — the reduction question is malformed, not merely unanswerable. (Not: the information is there but unpinnable. There is no pinned thing — the holder is empty.)
+
+*Note*: this is dissolutionist, not Moorean. The moral isn't posited as a sui generis non-natural fact; rather the reduction is malformed because its base is empty. That spends the strong non-naturalism the niyāma scheme first seemed to promise — a deliberate trade, and the honest one for a Jizang-grounded theory.
 
 The weld — one empty-yet-efficacious joining, in two orientations:
 - *vertical* / *agential* (Linji): joins the rankless empty floor to conventional action — the true person of no rank.
-- *horizontal* / *causal* (Dōgen, row three): within the conventional, practice binds soteriological direction onto the blind karmic arrow — fumai-inga, not-obscure, not-fall.
+- *horizontal* / *causal* (Dōgen, row three): within the conventional, practice binds soteriological direction onto the blind karmic arrow — fumai-inga, not-obscure, not-fall. Because there is no fixed base, soteriological direction can never be *read off* the facts — only *enacted*. This is why the enactment column is mandatory, not decorative: the left column's *no-substrate* and the right column's *must-weld* are one fact seen twice. Emptiness of the holder (dependence) *is* the necessity of welding (enactment).
 
 This is a limited lens — other doctrines hold too.
 
