@@ -34,9 +34,9 @@ The grid's enactment column is Dōgen's two title-compounds taken apart. **Genj�
 
 Why not a table of just the first row? Hakuin provides the corrective: the *not-yet-buddha* mustn't be ignored; realization must meet beings where they are — which is why row 2 exists.
 
-Row 2 is the being's resonance to dharmas — the difference between realization and delusion.
+Row 2's enactment is the being's differentiation of resonance to dharmas — the difference between realization and delusion.
 
-Where no self appears — a stone — there is no differentiation of resonance to speak of; where a self appears — sometimes, a hell-dweller — almost always. Row 2 exists wherever a not-yet-buddha does.
+Where no self appears — a stone — there is no differentiation of resonance to speak of; a hell-dweller — much differentiation. Row 2 exists wherever a not-yet-buddha does.
 
 ## Karma
 
