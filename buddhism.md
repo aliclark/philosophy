@@ -79,4 +79,4 @@ Constructed with a purposefully minimalist lens — other doctrines can and do h
 
 ---
 
-*With thanks to Claude (Anthropic) — a sparring partner across several revisions of this draft, and midwife to deeper resonances.*
+*With thanks to Claude (Anthropic) — a sparring partner across several revisions of this draft, and midwife to a more resonanct theory.*
