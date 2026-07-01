@@ -14,7 +14,7 @@ Jizang — the ultimate is the self-emptying floor; every level is conventional 
 
 Distinct from it, and never equated with it, is the **non-attaining middle** at the floor — Linji's "true person of no rank", no metaphysical rank yet always going in and out, acting. This is **shō**: realization as anātman, agential, never a still attainment. Two middles: genjō provisional, shō non-attaining. The system turns on keeping them apart.
 
-## The conventional principle
+## The act-grammar
 
 Why not leave it at Jizang? Per Dahui, Chinese and Japanese Zen don't cease at the self-emptying floor: emptiness that only empties can host neither Zen activity nor the vibrant person who acts. So the floor is turned into an act-grammar, here using Dōgen's vocabulary.
 
