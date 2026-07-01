@@ -63,6 +63,7 @@ The ultimate is the self-emptying floor; every row is conventional (MMK 24: empt
 - **Jizang** — the self-emptying floor: emptiness empties even emptiness, so the ultimate is never reified; reaching the karma-holder, this is what makes karma underivable from the impersonal field.
 - **Dōgen** — the philosophical material.
 - **Hakuin** — the corrective: the *not-yet-buddha* mustn't be ignored; realization must meet beings where they are — which is why row 2 exists at all.
+- **The Gateless Gate (Mumonkan), Case 2, compiled by Wumen Huikai** — motivation for row 3.
 - **Linji** — that shō is agential, never a still attainment: the true person of no rank, no metaphysical rank yet always going in and out, acting.
 
 *A limited lens — other doctrines hold too.*
